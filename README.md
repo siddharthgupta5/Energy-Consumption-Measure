@@ -1,13 +1,5 @@
 # Measure Energy Consumption
 
-## Team Members
-
-| Name            | Email                          |
-| --------------- | ------------------------------ |
-| Fowzaan         | fowzaan.rasheed@gmail.com      |
-| Mohit S         | smohit28.04@gmail.com          |
-| Pronoy Kundu    | pronoykundu513@gmail.com       |
-
 ## Project Overview
 
 This project demonstrates the application of advanced time series analysis and machine learning techniques in forecasting and anomaly detection. The project uses a dataset of hourly electricity production data from American Electric Power (AEP) to predict future electricity production and detect anomalies in the data.
