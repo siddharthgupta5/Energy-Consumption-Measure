@@ -10,22 +10,11 @@ Original file is located at
 
 **Objective:**
 
-In this phase, we will continue building the "Measure Energy Consumption" project by performing Feature Engineering , Model Training and Evaluation on the dataset obtained by Kaggle.The primary goal is to have a model with high accuracy and integration with other functionalities.
+In this phase, we will continue building the "Energy Consumption Measure" project by performing Feature Engineering , Model Training and Evaluation on the dataset obtained by Kaggle.The primary goal is to have a model with high accuracy and integration with other functionalities.
 
 
 
 
-**Team Details:**
-
- 1. College Name: Madras Institute of Technology, Anna University
-
-2. Team Members:
-
-| Name                        | Email                    | NM ID                                |
-|-----------------------------|--------------------------|--------------------------------------|
-| Fowzaan Abdur Razzaq Rasheed | fowzaan.rasheed@gmail.com  | 8E4AF1FB4D2CAD089814D6BED938AC27     |
-| Mohit S                     | smohit28.04@gmail.com     | B80CBC310CADE36AB9A4F5A439515636    |
-| Pronoy Kundu                | pronoykundu513@gmail.com  | 11306F001F2B3639BBE4CB15C475F9EC    |
 
 # __Importing Libraries and Setting Up the Environment__
 """
